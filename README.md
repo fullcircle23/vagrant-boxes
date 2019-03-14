@@ -1,0 +1,1 @@
+Each vagrant box is maintained in its own folder.
